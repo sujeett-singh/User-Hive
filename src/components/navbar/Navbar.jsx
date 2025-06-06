@@ -23,7 +23,7 @@ const Navbar = () => {
   return (
     <nav id={style.nav}>
       <figure>
-        <img src="/hive.png" alt="hive-logo" title="hive" />
+        <img src="/User-Hive/hive.png" alt="hive-logo" title="hive" />
       </figure>
       <ul>
         <li>
